@@ -1,0 +1,6 @@
+<graph>
+    <node>
+        <file>process_file</file>
+        <file>result_file</file>
+    </node>
+</graph>
